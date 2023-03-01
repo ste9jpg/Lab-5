@@ -7,13 +7,13 @@ body {
 h1{
   width: 40%;  
   padding: 0px;
-  border: 4px solid #880085;
+  border: 4px solid #f2f2f2;
   margin-left: auto;
   margin-right: auto;
   font-size: 3em;
   font-weight: bold; 
   text-align: center;
-  color: #880085;
+  color: #f2f2f2;
 }
 
 img {
