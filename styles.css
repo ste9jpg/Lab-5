@@ -40,3 +40,12 @@ td, th {
   text-align: center;
   }
 
+#planets th{
+  background-color: #99bbff;
+  border: 0px;
+}
+
+.fact-column{
+  background-color: #b19cd9;
+  text-align: left;
+}
