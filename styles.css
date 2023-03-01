@@ -26,3 +26,11 @@ img {
 .backgroundpic{
   background-color: #000000;
 }
+
+#planets{
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
