@@ -7,7 +7,7 @@ body {
 h1{
   width: 40%;  
   padding: 0px;
-  border: 4px solid #f2f2f2;
+  border: 4px dotted #f2f2f2;
   margin-left: auto;
   margin-right: auto;
   font-size: 3em;
