@@ -1,4 +1,6 @@
 body {
+  height: 500px;
+  width: 500px;
   background-image: url(../images/spacecat.jpg);
   background-repeat: no-repeat;
   background-size: cover;
