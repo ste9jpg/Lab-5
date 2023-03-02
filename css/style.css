@@ -59,8 +59,6 @@ td, th {
 }
 
 .fact-type{
-  border-collapse: collapse;
-  border: 1px solid white;
   color: #FFFFFF;
   font-size: 1.1em;
   font-weight: bold;
