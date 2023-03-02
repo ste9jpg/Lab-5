@@ -1,0 +1,69 @@
+body {
+  background-image: url(../images/spacecat.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  width: 40%;  
+  padding: 0px;
+  border: 4px solid #f2f2f2;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3em;
+  font-weight: bold; 
+  text-align: center;
+  color: #f2f2f2;
+}
+
+img {
+  width: 10em;
+  padding: 0.3em;
+  border: 0em;
+  margin: 0em;
+} 
+
+.backgroundpic{
+  background-color: #000000;
+}
+
+#planets{
+  border-collapse: collapse;
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td, th {
+  padding: 8px;
+	border: 1px solid;
+  text-align: center;
+  }
+
+#planets th{
+  background-color: #99bbff;
+  border: 0px;
+}
+
+.fact-column{
+  background-color: #b19cd9;
+  text-align: left;
+}
+
+.planet-name{
+  color: #d9d9d9;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.fact-type{
+  color: # #d9d9d9;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.fact-column{
+  background-color: #b19cd9;
+  text-align: left;
+}
+
