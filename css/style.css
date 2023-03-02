@@ -107,9 +107,10 @@ td, th {
 }
 
 .hover:hover {
+  padding: 15px;
   color: #000000;
   background-color: #F0F8FF;
-  text-align: left;
+  text-align: center;
   font-family: 'Sora', sans-serif;
   font-size: 14px;
 } 
