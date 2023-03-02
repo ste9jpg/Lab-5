@@ -7,9 +7,10 @@ body {
 h1{
   width: 40%;  
   padding: 0px;
-  border: 4px dotted #f2f2f2;
+  border: 4px double #f2f2f2;
   margin-left: auto;
   margin-right: auto;
+  font-family: 'Francois One', sans-serif;
   font-size: 3em;
   font-weight: bold; 
   text-align: center;
