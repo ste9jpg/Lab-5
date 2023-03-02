@@ -79,7 +79,7 @@ td, th {
 	background-color: #99bbff;
 	color: #FFFFFF;
     font-family: 'Sora', sans-serif;
-    font-size: .7 em;
+    font-size: 0.7 em;
 
 }
 
@@ -87,14 +87,14 @@ td, th {
 	background-color: #80bfff;
 	color: #FFFFFF;
     font-family: 'Sora', sans-serif;
-    font-size: .7 em;
+    font-size: 0.7 em;
 	background-color: #99bbff;
 }
 
 .side-titles{
   color: #FFFFFF;
   font-family: 'Sora', sans-serif;
-  font-size: 1.5 em;
+  font-size: 2.0 em;
   font-weight: bold;
 }
 
