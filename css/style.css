@@ -74,3 +74,14 @@ td, th {
 .darkerblue{
 	background-color: #80bfff;
 }
+
+.side-titles{
+  color: #000000;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.side-titles-column{
+  background-color: #80bfff;
+  text-align: left;
+}
