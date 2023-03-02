@@ -105,3 +105,11 @@ td, th {
   font-size: 2.0 em;
   font-weight: bold;
 }
+
+.hover:hover td{
+  color: #000000;
+  background-color: #FFFFFF;
+  text-align: left;
+  font-family: 'Sora', sans-serif;
+  font-size: .7 em;
+} 
