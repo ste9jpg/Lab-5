@@ -25,6 +25,8 @@ img {
 
 .backgroundpic{
   background-color:  #000000;
+  border-collapse: collapse;
+  border: 1px solid white;
 }
 
 #planets{
@@ -57,14 +59,19 @@ td, th {
 }
 
 .fact-type{
+  border-collapse: collapse;
+  border: 1px solid white;
   color: #FFFFFF;
   font-size: 1.1em;
   font-weight: bold;
 }
 
 .fact-column{
+  border-collapse: collapse;
+  border: 1px solid white;
   background-color: #80bfff;
   text-align: left;
+  
 }
 
 .babyblue{
