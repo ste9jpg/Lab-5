@@ -106,9 +106,9 @@ td, th {
   font-weight: bold;
 }
 
-.hover:hover td{
+.hover:hover {
   color: #000000;
-  background-color: #FFFFFF;
+  background-color: #F0F8FF;
   text-align: left;
   font-family: 'Sora', sans-serif;
   font-size: 14px;
