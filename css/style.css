@@ -11,7 +11,7 @@ h1{
   margin-left: auto;
   margin-right: auto;
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 3em;
+  font-size: 40px;
   font-weight: bold; 
   text-align: center;
   color: #f2f2f2;
@@ -56,14 +56,14 @@ td, th {
 .planet-name{
   color: #FFFFFF;
   font-family: 'Sora', sans-serif;
-  font-size: 2em;
+  font-size: 28px;
   font-weight: bold;
 }
 
 .fact-type{
   color: #FFFFFF;
   font-family: 'Sora', sans-serif;
-  font-size: 1.1em;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -79,7 +79,7 @@ td, th {
 	background-color: #99bbff;
 	color: #FFFFFF;
     font-family: 'Sora', sans-serif;
-    font-size: 0.7 em;
+    font-size:  10px;
 
 }
 
@@ -87,13 +87,13 @@ td, th {
 	background-color: #80bfff;
 	color: #FFFFFF;
     font-family: 'Sora', sans-serif;
-    font-size: 0.7 em;
+    font-size: 10px;
 }
 
 .side-titles{
   color: #FFFFFF;
   font-family: 'Sora', sans-serif;
-  font-size: 3.0 em;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -102,7 +102,7 @@ td, th {
   background-color: #80bfff;
   text-align: left;
   font-family: 'Sora', sans-serif;
-  font-size: 2.0 em;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -111,5 +111,5 @@ td, th {
   background-color: #FFFFFF;
   text-align: left;
   font-family: 'Sora', sans-serif;
-  font-size: .7 em;
+  font-size: 10pxem;
 } 
