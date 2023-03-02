@@ -78,11 +78,17 @@ td, th {
 .babyblue{
 	background-color: #99bbff;
 	color: #FFFFFF;
+    font-family: 'Sora', sans-serif;
+    font-size: 1 em;
+
 }
 
 .darkerblue{
 	background-color: #80bfff;
 	color: #FFFFFF;
+    font-family: 'Sora', sans-serif;
+    font-size: 1 em;
+	background-color: #99bbff;
 }
 
 .side-titles{
