@@ -46,18 +46,18 @@ td, th {
 }
 
 .fact-column{
-  background-color: #b19cd9;
+  background-color: #FFFFFF;
   text-align: left;
 }
 
 .planet-name{
-  color: #d9d9d9;
+  color: #FFFFFF;
   font-size: 2em;
   font-weight: bold;
 }
 
 .fact-type{
-  color: # #d9d9d9;
+  color: #FFFFFF;
   font-size: 1.1em;
   font-weight: bold;
 }
@@ -68,7 +68,7 @@ td, th {
 }
 
 .babyblue{
-	background-color: #99bbff
+	background-color: #99bbff;
 }
 
 .darkerblue{
